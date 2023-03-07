@@ -66,4 +66,13 @@ function get_files_list(this_struct, folder_path, page) {
 }
 ```
 
+## Sertificates:
 
+![HTML sololearn](https://api2.sololearn.com/v2/certificates/CT-0WVEBVEK/image/png)
+![CSS sololearn](https://api2.sololearn.com/v2/certificates/CT-JSW011S4/image/png)
+![JavaScript](https://api2.sololearn.com/v2/certificates/CT-TMSWSUNA/image/png)
+
+## Languages:
+
+* Russian
+* English — A2
