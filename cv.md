@@ -1,6 +1,8 @@
 # Aleksey Shpak
 
-## Contact information
+![Аватарка](https://sun9-34.userapi.com/impf/c627620/v627620736/12b0c/26Pk1uQdf2Y.jpg)
+
+## Contact information:
 
 * **E-mails:** aleksversus@mail.ru, lex666endless@gmail.com
 * **Telegramm:** @aleksversus
